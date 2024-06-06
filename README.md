@@ -12,9 +12,9 @@
 
    - 🤝 I’m looking for help with **DevOps and Linux**
 
-   - 👨‍💻 All of my projects are available at [ghithub.com/rmndvngrpslhr](ghithub.com/rmndvngrpslhr)
+   - 👨‍💻 All of my projects are available at [github.com/rmndvngrpslhr](ghithub.com/rmndvngrpslhr)
 
-   - 📝 I regularly write articles on [medium](medium.com/@avgsolheiro) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
+   - 📝 I regularly write articles on [Medium](medium.com/@avgsolheiro) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
 
    - 💬 Ask me about **Anything and I'll research to answer you**
 
@@ -41,7 +41,9 @@
 
 </div>
 
+<!-- 
 <div>
    <a href="https://github.com/rmndvngrpslhr">
    <img height="180em" src="https://github-readme-stats-mu-five-92.vercel.app/api?username=rmndvngrpslhr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+-->
