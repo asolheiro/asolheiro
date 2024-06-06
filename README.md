@@ -2,8 +2,7 @@
    <h1 align="center">Hi , I'm Armando Solheiro</h1>
    <h3 align="center">A cook who became a developer</h3>
 
-   <p align="left"> <a href="https://twitter.com/rmndvngrpslhr" target="blank"><img src="[https://img.shields.io/twitter/follow/rmndvngrpslhr?logo=twitter](https://img.shields.io/twitter/follow/rmndvngrpslhr
-)&style=for-the-badge" alt="rmndvngrpslhr" /></a> </p>
+   <p align="left"> <a href="https://twitter.com/rmndvngrpslhr" target="blank"><img src="https://img.shields.io/twitter/follow/rmndvngrpslhr?logo=twitter&style=for-the-badge" alt="rmndvngrpslhr" /></a> </p>
 
    - 🔭 I’m currently working on **FastAPI/Python Projects**
 
