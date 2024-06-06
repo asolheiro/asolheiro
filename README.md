@@ -2,27 +2,26 @@
    <h1 align="center">Hi , I'm Armando Solheiro</h1>
    <h3 align="center">A cook who became a developer</h3>
 
-   <p align="left"> <a href="https://twitter.com/rmndvngrpslhr" target="blank"><img src="https://img.shields.io/twitter/follow/rmndvngrpslhr?logo=twitter&style=for-the-badge" alt="rmndvngrpslhr" /></a> </p>
+   <p align="left"> <a href="https://twitter.com/rmndvngrpslhr" target="blank"><img src="[https://img.shields.io/twitter/follow/rmndvngrpslhr?logo=twitter](https://img.shields.io/twitter/follow/rmndvngrpslhr
+)&style=for-the-badge" alt="rmndvngrpslhr" /></a> </p>
 
-   - 🔭 I’m currently working on **personal projects**
+   - 🔭 I’m currently working on **FastAPI/Python Projects**
 
-   - 🌱 I’m currently learning **Django Rest Framework**
+   - 🌱 I’m currently learning **GoLang and DevOps culture**
 
-   - 👯 I’m looking to collaborate on **Python and Django Projects**
+   - 👯 I’m looking to collaborate on **FastAPI Projects**
 
-   - 🤝 I’m looking for help with **other programming languages, specially on front-end skills**
+   - 🤝 I’m looking for help with **DevOps and Linux**
 
    - 👨‍💻 All of my projects are available at [ghithub.com/rmndvngrpslhr](ghithub.com/rmndvngrpslhr)
 
-   - 📝 I regularly write articles on [medium.com/@avgsolheiro](medium.com/@avgsolheiro)
+   - 📝 I regularly write articles on [medium](medium.com/@avgsolheiro) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
 
    - 💬 Ask me about **Anything and I'll research to answer you**
 
-   - 📫 How to reach me **avgsolheiro@gmail.com**
-
    - 📄 Know about my experiences [linkedin.com/armandosolheiro](linkedin.com/armandosolheiro)
 
-   - ⚡ Fun fact **I'm really graduated on gastronomy schol, so I can also give you cooking tips.**
+   - ⚡ Fun fact **I'm graduated on gastronomy school. We can discuss about codes, but also about cooking.**
 
    <h3 align="left">Connect with me:</h3>
    <p align="left">
