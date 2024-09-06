@@ -4,17 +4,17 @@
 
    <p align="left"> <a href="https://twitter.com/rmndvngrpslhr" target="blank"><img src="https://img.shields.io/twitter/follow/rmndvngrpslhr?logo=twitter&style=for-the-badge" alt="rmndvngrpslhr" /></a> </p>
 
-   - 🔭 I’m currently working on **FastAPI/Python Projects**
+   - 🔭 I’m currently working on **Python and GoLangProjects**
 
    - 🌱 I’m currently learning **GoLang and DevOps culture**
 
-   - 👯 I’m looking to collaborate on **FastAPI Projects**
+   - 👯 I’m looking to collaborate on **Open Source Projects**
 
    - 🤝 I’m looking for help with **DevOps and Linux**
 
    - 👨‍💻 All of my projects are available at [github.com/rmndvngrpslhr](ghithub.com/rmndvngrpslhr)
 
-   - 📝 I regularly write articles on [Medium](medium.com/@avgsolheiro) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
+   - 📝 I regularly write articles on [My GitHubPages](https://rmndvngrpslhr.github.io) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
 
    - 💬 Ask me about **Anything and I'll research to answer you**
 
