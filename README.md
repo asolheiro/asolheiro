@@ -12,9 +12,9 @@
 
    - 🤝 I’m looking for help with **DevOps and Linux**
 
-   - 👨‍💻 All of my projects are available at [github.com/rmndvngrpslhr](ghithub.com/rmndvngrpslhr)
+   - 👨‍💻 All of my projects are available at [github.com/rmndvngrpslhr](ghithub.com/asolheiro)
 
-   - 📝 I regularly write articles on [My GitHubPages](https://rmndvngrpslhr.github.io) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
+   - 📝 I regularly write articles on [My GitHubPages](https://asolheiro.github.io) and [TabNews](https://www.tabnews.com.br/rmndvngrpslhr/conteudos/1)
 
    - 💬 Ask me about **Anything and I'll research to answer you**
 
@@ -26,7 +26,7 @@
    <p align="left">
    <a href="https://twitter.com/rmndvngrpslhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rmndvngrpslhr" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/armandosolheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armandosolheiro" height="30" width="40" /></a>
-   <a href="https://rmndvngrpslhr.github.io" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="armandosolheiro" height="30" width="40" /></a>  
+   <a href="https://asolheiro.github.io" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="armandosolheiro" height="30" width="40" /></a>  
    </p>
 
    <h3 align="left">Languages and Frameworks:</h3>
